@@ -1,0 +1,7 @@
+.dropdown-item:hover{
+background-color: #03658B;
+color: white;
+}
+.combobox{
+    width: 100px !important;
+}
